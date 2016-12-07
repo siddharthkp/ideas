@@ -1,4 +1,0 @@
-- More power to package.json by supporting js
-- Babel plugin
-- Wrapper around npm run, transpile > execute
-- Need init task to make it work the first time
