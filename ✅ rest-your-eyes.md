@@ -4,4 +4,4 @@
 - npm package
 - Lowers the brightness of your screen while your build runs, then comes back when it’s done.
 - as CLI to use with npm scripts
-- as API to use with gulp/webpack etc.
+- as API to use with gulp/webpack etc?
