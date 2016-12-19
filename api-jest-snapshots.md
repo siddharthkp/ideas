@@ -1,4 +1,0 @@
-- Define nice structure to pass request URL, data
-- use jest for storing snapshots
-- define suits, etc
-- running tests in parallel? Actual API calls = slow
